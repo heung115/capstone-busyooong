@@ -1,8 +1,9 @@
 import React from "react";
 import './VoiceComponent.css'
+import { VoiceToText } from "./VoiceToText";
 
 const VoiceComponent = () => {
-    const { transcript, listening, toggleListening } = {};
+    const { transcript, listening, toggleListening } = VoiceToText();
 
     return (
         <div>
