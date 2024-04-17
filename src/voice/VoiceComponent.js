@@ -1,4 +1,5 @@
 import React from "react";
+import './VoiceComponent.css'
 
 const VoiceComponent = () => {
     const { transcript, listening, toggleListening } = {};

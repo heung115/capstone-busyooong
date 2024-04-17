@@ -1,0 +1,23 @@
+.title {
+    text-align: center;
+}
+
+.res-containner {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+.voice-script {
+    width: 190px;
+    margin: auto;
+    padding: 0px;
+}
+
+
+.record-button {
+    width: 150px;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+}
