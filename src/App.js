@@ -1,7 +1,8 @@
 import "./App.css";
+import { VoiceComponent } from "./voice/VoiceComponent";
 
 function App() {
-    return <h1>capstone-busyooong-front</h1>;
+    return <VoiceComponent />;
 }
 
 export default App;
